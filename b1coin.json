@@ -1,0 +1,16 @@
+{
+  "name": "B1 Coin",
+  "symbol": "B1C",
+  "description": "Token B1 Coin",
+  "image": "https://raw.githubusercontent.com/louischiu46/b1coin-metadata/main/B1coin1.jpg",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/louischiu46/b1coin-metadata/main/B1coin1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
