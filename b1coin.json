@@ -1,1 +1,6 @@
-
+{
+  "name": "B1 Coin",
+  "symbol": "B1C",
+  "description": "B1 Coin on Solana",
+  "image": "https://raw.githubusercontent.com/USERNAME/B1Coin-Metadata/main/b1coin.png",
+}
